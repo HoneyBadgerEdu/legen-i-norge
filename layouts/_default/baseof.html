@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{partial "stylelinks.html"}}
+    <title>{{.Title}}</title>
+    <meta name="google-site-verification" content="3VsHcHe_ZU_lrLsuz6bhqyETS20nxBnNRx97vbCwlDQ" />
+    <link rel="canonical" href="{{ .Permalink }}" />
+  </head>
+  <body>
+    {{partial "header.html"}} {{ block "main" . }}
+      
+    {{ end }}
+    {{partial "footer.html"}}
+  </body>
+</html>

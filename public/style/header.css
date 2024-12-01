@@ -1,0 +1,30 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#logo{
+  cursor: pointer;
+  font-weight: 700;
+  text-decoration: none;
+  color:black;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+  gap:2rem;
+}
+nav ul li a{
+  text-decoration: none;
+  color:black;
+}
+
+@media (max-width: 600px){
+  header{
+    font-size:0.7rem;
+  }
+}

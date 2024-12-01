@@ -1,0 +1,23 @@
+.markdown {
+}
+
+.markdown h1,
+h2 {
+  border-bottom: 1px solid grey;
+  padding: 1rem 0;
+}
+.markdown p {
+  font-size: 1.0rem;
+  line-height: 1.7rem;
+}
+.markdown em{
+  display: block;
+  text-align: end;
+}
+.markdown p img{
+  justify-self: center;
+  max-width: 100%;
+}
+.markdown ol li, ul li{
+  padding:0.5rem 0;
+}

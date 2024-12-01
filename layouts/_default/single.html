@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="markdown">
+  <h1>{{.Title}}</h1>
+  <p>{{ .Date | time.Format ":date_medium" }}</p>
+  {{.Content}}
+  <p>
+    <b>Дата останньої редакції статті: {{ if .Params.lastmod }}</b
+    >{{.Params.lastmod | time.Format ":date_long"}} {{ else }}
+    <span>Не вказана</span>
+    {{ end }}
+  </p>
+</div>
+{{ end }}

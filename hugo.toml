@@ -1,0 +1,5 @@
+baseURL = 'https://norgelege.com'
+languageCode = 'uk-UA'
+title = 'Legen-i-Norge'
+relativeURLs = true
+enableRobotsTXT = true

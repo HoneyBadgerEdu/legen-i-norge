@@ -1,0 +1,20 @@
+{
+  "name": "norsk-lege",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tinacms build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tinacms": "^2.2.8"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.6.8",
+    "@types/node": "^22.7.4"
+  }
+}
