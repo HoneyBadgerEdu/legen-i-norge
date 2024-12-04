@@ -1,13 +1,14 @@
 ---
-title: Як підтвердити освіту лікаря в Норвегії?
-date: 01 Oct 2024
-lastmod: 01 Oct 2024
-Summary: Загальний шлях підтвердження освіті лікаря в Норвегії для громадян України
 Draft: false
+title: Як підтвердити освіту лікаря в Норвегії?
+date: 2024-10-01T00:00:00.000Z
+lastmod: 2024-10-01T00:00:00.000Z
+Summary: Загальний шлях підтвердження освіті лікаря в Норвегії для громадян України
+draft: false
 ---
 
 ![Linoy](/img/doctor-in-norway/lindoy.webp)
- _Lindøy, Norge - Sep 2023_
+*Lindøy, Norge - Sep 2023*
 
 Підтвердженням вашої медичної освіти займається [Міністерство Охорони Здоровʼя Норвегії (Helsedirektoratet)](articles/helsedirektoratet-application).
 
@@ -20,9 +21,9 @@ Draft: false
 
 Коли вам затверджують освіту, то ви отримуєте ліцензію, яка дозволяє працювати під наглядом іншого лікаря. Вона діє 3 роки. За цей час вам необхідно виконати 3 вимоги:
 
-- Здати [Norskprøven](/articles/norskproven) на рівень B2 усі 4 частини
-- Пройти [Nasjonalfagkurs](/articles/nationalfagkurs)
-- Здати [Fagprøven](/articles/fagproven)
+* Здати [Norskprøven](/articles/norskproven) на рівень B2 усі 4 частини
+* Пройти Nasjonalfagkurs
+* Здати [Fagprøven](/articles/fagproven)
 
 Після цього ви отримуєте право на проходження Turnus. Це як інтернатура у нас. Тільки тут вона оплачується та триває 18 місяців.
 
