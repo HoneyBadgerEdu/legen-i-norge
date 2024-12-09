@@ -1,5 +1,4 @@
 ---
-Title: Legen i Noreg
 title: Legen i Norge
 draft: false
 ---
