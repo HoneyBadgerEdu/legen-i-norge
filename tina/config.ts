@@ -6,7 +6,44 @@ const branch =
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
   "main";
-
+const postFields = [
+  {
+    type: "string",
+    name: "title",
+    label: "Title",
+  },
+  {
+    type: "datetime",
+    name: "date",
+    label: "Date of creation",
+  },
+  {
+    type: "datetime",
+    name: "lastmod",
+    label: "Date of last review of article",
+  },
+  {
+    type: "string",
+    name: "Summary",
+    label: "What is article about",
+    ui: {
+      component: "textarea",
+    },
+  },
+  {
+    name: "draft",
+    label: "Draft",
+    type: "boolean",
+    required: true,
+    description: "If this is checked the post will not be published",
+  },
+  {
+    type: "rich-text",
+    name: "body",
+    label: "Body",
+    isBody: true,
+  },
+];
 export default defineConfig({
   branch,
 
@@ -29,47 +66,16 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date of creation",
-          },
-          {
-            type: "datetime",
-            name: "lastmod",
-            label: "Date of last review of article",
-          },
-          {
-            type: "string",
-            name: "Summary",
-            label: "What is article about",
-            ui: {
-              component: "textarea",
-            },
-          },
-          {
-            name: "draft",
-            label: "Draft",
-            type: "boolean",
-            required: true,
-            description: "If this is checked the post will not be published",
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-        ],
+        name: "post-uk",
+        label: "Posts-Ukrainian",
+        path: "content/uk",
+        fields: [...postFields],
+      },
+      {
+        name: "post-en",
+        label: "Posts-English",
+        path: "content/en",
+        fields: [...postFields],
       },
     ],
   },

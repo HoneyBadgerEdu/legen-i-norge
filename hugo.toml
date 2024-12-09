@@ -3,3 +3,40 @@ languageCode = 'uk-UA'
 title = 'Legen-i-Norge'
 relativeURLs = true
 enableRobotsTXT = true
+defaultContentLanguage = "uk"
+defaultContentLanguageInSubdir = false
+[languages]
+[languages.uk]
+    contentDir = 'content/uk'
+    languageCode = 'uk-UA'
+    languageName = 'UA'
+    weight = 1
+    [[languages.uk.menus.main]]
+        name = 'Про проект'
+        pageRef = '/about'
+        weight = 10
+        [[languages.uk.menus.main]]
+        name = 'Статті'
+        pageRef = '/articles'
+        weight = 20
+        [[languages.uk.menus.main]]
+        name = 'Зв’язатись'
+        pageRef = '/contact'
+        weight = 30
+[languages.en]
+    contentDir = 'content/en'
+    languageCode = 'en-US'
+    languageName = 'ENG'
+    weight = 2
+    [[languages.en.menus.main]]
+        name = 'About'
+        pageRef = '/about'
+        weight = 10
+    [[languages.en.menus.main]]
+        name = 'Articles'
+        pageRef = '/articles'
+        weight = 20
+    [[languages.en.menus.main]]
+        name = 'Contact'
+        pageRef = '/contact'
+        weight = 30

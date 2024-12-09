@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legen i Noreg on Legen-i-Norge</title>
+    <link>https://norgelege.com/en/</link>
+    <description>Recent content in Legen i Noreg on Legen-i-Norge</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Oct 2024 22:00:00 +0000</lastBuildDate>
+    <atom:link href="https://norgelege.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact with me</title>
+      <link>https://norgelege.com/en/contact/</link>
+      <pubDate>Wed, 02 Oct 2024 22:00:00 +0000</pubDate>
+      <guid>https://norgelege.com/en/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>About project</title>
+      <link>https://norgelege.com/en/about/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://norgelege.com/en/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Nesflaten aurora&#34; src=&#34;../img/nesflaten-aurora.jpg&#34;&gt;&#xA;&lt;em&gt;Nesflaten, Norge - Des 2023&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The idea came about because doctors outside of EU/EEA have difficulty understanding the process of confirming medical education in Norway. Many things come only when you go through it yourself. Therefore, on this site you will get information from someone who is going through it.&lt;/p&gt;&#xA;&lt;p&gt;I try to ensure that the information I provide is accurate, but errors are possible. If you see an error, please report it in Telegram.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to confirm you doctors degree in Norway?</title>
+      <link>https://norgelege.com/en/articles/doctor-in-norway/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://norgelege.com/en/articles/doctor-in-norway/</guid>
+      <description>General way of confirming doctors education ouside of EU/EEA country in Norway</description>
+    </item>
+    <item>
+      <title>Lisence of medical student in Norway</title>
+      <link>https://norgelege.com/en/articles/student-license/</link>
+      <pubDate>Sat, 31 Aug 2024 22:00:00 +0000</pubDate>
+      <guid>https://norgelege.com/en/articles/student-license/</guid>
+      <description>Requirements to get it, process, cost</description>
+    </item>
+  </channel>
+</rss>

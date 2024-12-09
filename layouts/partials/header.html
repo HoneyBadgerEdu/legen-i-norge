@@ -1,10 +1,27 @@
 <header>
-  <a id="logo" href="/">Legen i Norge</a>
+  {{ range site.Home.AllTranslations }} {{if eq .Language.Lang
+  site.Language.Lang}}
+  <a id="logo" href="{{ .RelPermalink }}">Legen i Norge</a>
+  {{ end }} {{end}}
+  <ul class="language-toggle">
+    {{ range site.Home.AllTranslations }} {{if eq .Language.Lang
+    site.Language.Lang}}
+    <li href="{{ .RelPermalink }}">
+      {{ .Language.LanguageName }}
+      <img class="language-icon" src="/img/icons/down.png" alt="Arrow down" />
+    </li>
+    {{ end }} {{end}} {{range site.Home.AllTranslations}} {{if ne .Language.Lang
+    site.Language.Lang}}
+    <li><a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
+    {{end}} {{end}}
+  </ul>
   <nav>
     <ul>
-      <li><a href="/about">Про проект</a></li>
-      <li><a href="/articles">Статті</a></li>
-      <li><a href="/contact">Зв'язатись</a></li>
+      {{ range site.Menus.main }}
+      <li>
+        <a href="{{ .URL }}"> {{ .Name }}</a>
+      </li>
+      {{ end }}
     </ul>
   </nav>
 </header>
