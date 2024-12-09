@@ -66,14 +66,14 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post-uk",
-        label: "Posts-Ukrainian",
+        name: "post_uk",
+        label: "Posts_Ukrainian",
         path: "content/uk",
         fields: [...postFields],
       },
       {
-        name: "post-en",
-        label: "Posts-English",
+        name: "post_en",
+        label: "Posts_English",
         path: "content/en",
         fields: [...postFields],
       },
