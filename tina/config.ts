@@ -6,7 +6,8 @@ const branch =
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
   "main";
-const postFields = [
+
+const generalFilling = [
   {
     type: "string",
     name: "title",
@@ -34,7 +35,6 @@ const postFields = [
     name: "draft",
     label: "Draft",
     type: "boolean",
-    required: true,
     description: "If this is checked the post will not be published",
   },
   {
@@ -44,6 +44,7 @@ const postFields = [
     isBody: true,
   },
 ];
+
 export default defineConfig({
   branch,
 
@@ -66,16 +67,88 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post_uk",
-        label: "Posts_Ukrainian",
-        path: "content/uk",
-        fields: [...postFields],
-      },
-      {
         name: "post_en",
         label: "Posts_English",
         path: "content/en",
-        fields: [...postFields],
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date of creation",
+          },
+          {
+            type: "datetime",
+            name: "lastmod",
+            label: "Date of last review of article",
+          },
+          {
+            type: "string",
+            name: "Summary",
+            label: "What is article about",
+            ui: {
+              component: "textarea",
+            },
+          },
+          {
+            name: "draft",
+            label: "Draft",
+            type: "boolean",
+            description: "If this is checked the post will not be published",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: "post_uk",
+        label: "Posts_Ukrainian",
+        path: "content/uk",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date of creation",
+          },
+          {
+            type: "datetime",
+            name: "lastmod",
+            label: "Date of last review of article",
+          },
+          {
+            type: "string",
+            name: "Summary",
+            label: "What is article about",
+            ui: {
+              component: "textarea",
+            },
+          },
+          {
+            name: "draft",
+            label: "Draft",
+            type: "boolean",
+            description: "If this is checked the post will not be published",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
       },
     ],
   },
