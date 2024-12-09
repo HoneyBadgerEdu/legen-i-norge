@@ -3,7 +3,7 @@ Draft: false
 title: How to confirm you doctors degree in Norway?
 date: 2024-10-01T00:00:00.000Z
 lastmod: 2024-10-01T00:00:00.000Z
-Summary: General way of confirming doctors education ouside of EU/EEA country in Norway 
+Summary: General way of confirming doctors education ouside of EU/EEA country in Norway
 draft: false
 ---
 
@@ -20,7 +20,7 @@ If everything is OK, then the next step is to submit documents to the American c
 
 Once your education is approved, you will receive a license that allows you to work under the supervision of another doctor. It is valid for 3 years. During this time, you must meet 3 requirements:
 
-* Pass Norskprøven на рівень B2 усі 4 частини
+* Pass Norskprøven - all 4 parts
 * Pass Nasjonalfagkurs
 * Pass Fagprøven
 
