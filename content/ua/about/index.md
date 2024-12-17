@@ -1,7 +1,6 @@
 ---
-Title: Про проект
 layout: single
-Date: 01 Oct 2024
+date: 01 Oct 2024
 title: Про проект
 lastDate: 01 Oct 2024
 draft: false

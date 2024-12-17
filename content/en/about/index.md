@@ -1,7 +1,7 @@
 ---
 title: About project
 layout: single
-Date: 01 Oct 2024
+date: 01 Oct 2024
 lastDate: 01 Oct 2024
 draft: false
 ---

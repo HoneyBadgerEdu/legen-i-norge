@@ -1,5 +1,4 @@
 ---
-Draft: false
 title: How to confirm you doctors degree in Norway?
 date: 2024-10-01T00:00:00.000Z
 lastmod: 2024-10-01T00:00:00.000Z

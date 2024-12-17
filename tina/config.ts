@@ -1,4 +1,4 @@
-import { defineConfig } from "tinacms";
+import { defineConfig, TinaField } from "tinacms";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -7,7 +7,7 @@ const branch =
   process.env.HEAD ||
   "main";
 
-const generalFilling = [
+const generalFilling: TinaField<false>[] = [
   {
     type: "string",
     name: "title",
@@ -70,85 +70,13 @@ export default defineConfig({
         name: "post_en",
         label: "Posts_English",
         path: "content/en",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date of creation",
-          },
-          {
-            type: "datetime",
-            name: "lastmod",
-            label: "Date of last review of article",
-          },
-          {
-            type: "string",
-            name: "Summary",
-            label: "What is article about",
-            ui: {
-              component: "textarea",
-            },
-          },
-          {
-            name: "draft",
-            label: "Draft",
-            type: "boolean",
-            description: "If this is checked the post will not be published",
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-        ],
+        fields: generalFilling,
       },
       {
         name: "post_uk",
         label: "Posts_Ukrainian",
-        path: "content/uk",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date of creation",
-          },
-          {
-            type: "datetime",
-            name: "lastmod",
-            label: "Date of last review of article",
-          },
-          {
-            type: "string",
-            name: "Summary",
-            label: "What is article about",
-            ui: {
-              component: "textarea",
-            },
-          },
-          {
-            name: "draft",
-            label: "Draft",
-            type: "boolean",
-            description: "If this is checked the post will not be published",
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-        ],
+        path: "content/ua",
+        fields: generalFilling,
       },
     ],
   },
