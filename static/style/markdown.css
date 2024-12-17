@@ -10,7 +10,7 @@ h2 {
   font-size: 1.0rem;
   line-height: 1.7rem;
 }
-.markdown em{
+.markdown em, .markdown i{
   display: block;
   text-align: end;
 }

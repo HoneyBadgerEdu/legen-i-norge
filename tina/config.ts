@@ -14,9 +14,10 @@ const generalFilling: TinaField<false>[] = [
     label: "Title",
   },
   {
-    type: "datetime",
+    type: "string",
     name: "date",
     label: "Date of creation",
+    description: "Example: 05 Jan 2024",
   },
   {
     type: "datetime",

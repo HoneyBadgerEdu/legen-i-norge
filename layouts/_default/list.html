@@ -5,7 +5,7 @@
 <ul>
   {{ range .Pages }}
   <li>
-    {{ .Date | time.Format ":date_medium"}} - <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ .Date | time.Format "01 Jan 2023"}} - <a href="{{ .Permalink }}">{{ .Title }}</a>
     <p>{{ .Summary}}</p>
   </li>
   {{ end }}

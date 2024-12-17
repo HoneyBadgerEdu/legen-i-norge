@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://norgelege.com/</loc>
-    <lastmod>2024-11-17T23:00:00+00:00</lastmod>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://norgelege.com/articles/</loc>
-    <lastmod>2024-11-17T23:00:00+00:00</lastmod>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -29,13 +29,10 @@
                 />
   </url><url>
     <loc>https://norgelege.com/articles/nurse-in-norway/</loc>
-    <lastmod>2024-11-17T23:00:00+00:00</lastmod>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://norgelege.com/articles/fagproven/</loc>
-    <lastmod>2024-10-05T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://norgelege.com/articles/videregoende-voksenopplaring/</loc>
-    <lastmod>2024-10-02T22:00:00+00:00</lastmod>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://norgelege.com/contact/</loc>
     <lastmod>2024-10-03T22:00:00+00:00</lastmod>
@@ -49,6 +46,9 @@
                 hreflang="uk-UA"
                 href="https://norgelege.com/contact/"
                 />
+  </url><url>
+    <loc>https://norgelege.com/articles/videregoende-voksenopplaring/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://norgelege.com/about/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
@@ -77,13 +77,13 @@
                 />
   </url><url>
     <loc>https://norgelege.com/articles/norskproven-preparing/</loc>
-    <lastmod>2024-10-02T22:00:00+00:00</lastmod>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://norgelege.com/articles/norskproven/</loc>
-    <lastmod>2024-09-26T22:00:00+00:00</lastmod>
+    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://norgelege.com/articles/student-license/</loc>
-    <lastmod>2024-09-04T22:00:00+00:00</lastmod>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
