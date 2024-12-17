@@ -1,8 +1,8 @@
 ---
 title: Contact with me
 layout: single
-date: 2024-10-02T22:00:00.000Z
-lastmod: 2024-10-03T22:00:00.000Z
+date: 02 Oct 2024
+lastmod: 03 Oct 2024
 Summary: '-'
 draft: false
 ---
