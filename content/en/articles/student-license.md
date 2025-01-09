@@ -1,14 +1,14 @@
 ---
-title: Lisence of medical student in Norway
+title: Licence of medical student in Norway
 date: 31 Aug 2024
-lastmod: 04 Sep 2024
-Summary: "Requirements to get it, process, cost"
+lastmod: 09 Jan 2025
+Summary: 'Requirements to get it, process, cost'
 draft: false
 ---
 
 ![](/img/student-license/photo_2024-10-01_20-05-18.jpg)
 
-_Rogaland, Norway - Nov 2023_
+*Rogaland, Norway - Nov 2023*
 
 If you are currently studying in your 5th or 6th year at a medical university, you are eligible to receive a medical student license. This license gives you the right to work in a hospital under the supervision of another doctor.
 
