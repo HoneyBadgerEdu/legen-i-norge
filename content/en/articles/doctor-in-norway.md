@@ -15,7 +15,7 @@ The first step is to make sure that the medical university you graduated from is
 
 ![WDoMS](/img/doctor-in-norway/WDoMS.png)
 
-If everything is OK, then the next step is to submit documents to the American company ECFMG EPIC. They send a request to your university to confirm that you really studied there. After the answer, they send a report to the Helsedirektoratet. This takes about 2 months. At the same time as EPIC, you can send documents to the Helsedirektoratet. Because there the waiting time is up to 11 months.
+If everything is OK, then the next step is to submit documents to the American company ECFMG EPIC. They send a request to your university to confirm that you really studied there. After the answer, they send a report to the Helsedirektoratet. This takes about 2 months. At the same time as EPIC evaluate your documents, you can also send them to the Helsedirektoratet. Because there the waiting time is up to 11 months.
 
 Once your education is approved, you will receive a license that allows you to work under the supervision of another doctor. It is valid for 3 years. During this time, you must meet 3 requirements:
 
