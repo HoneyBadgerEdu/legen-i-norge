@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest articles on Legen-i-Norge</title>
-    <link>http://localhost:1313/en/articles/</link>
+    <link>https://norgelege.com/en/articles/</link>
     <description>Recent content in Latest articles on Legen-i-Norge</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://norgelege.com/en/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to confirm you doctors degree in Norway?</title>
-      <link>http://localhost:1313/en/articles/doctor-in-norway/</link>
+      <link>https://norgelege.com/en/articles/doctor-in-norway/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/articles/doctor-in-norway/</guid>
+      <guid>https://norgelege.com/en/articles/doctor-in-norway/</guid>
       <description>General way of confirming doctors education ouside of EU/EEA country in Norway</description>
     </item>
     <item>
       <title>Licence of medical student in Norway</title>
-      <link>http://localhost:1313/en/articles/student-license/</link>
+      <link>https://norgelege.com/en/articles/student-license/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/articles/student-license/</guid>
+      <guid>https://norgelege.com/en/articles/student-license/</guid>
       <description>Requirements to get it, process, cost</description>
     </item>
   </channel>
