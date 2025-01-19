@@ -10,8 +10,7 @@ draft: false
 
 To help doctors and medical staff outside of EU/EEA with confirmation of education in Norway.
 Related goals are to talk about language learning and the system as a whole.\
-Training platform for fagprøven for doctors: [Link\
-](https://fagproven.norgelege.com/)For individual consultation (mentoring with work, help with CV and søknadsbrev) take contact via [Telegram](https://t.me/cat_scan)
+Training platform for fagprøven for doctors: [Link](https://fagproven.norgelege.com/)
 
 ## A little about me
 
