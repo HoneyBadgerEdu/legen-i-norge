@@ -2,121 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://norgelege.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://norgelege.com/articles/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/articles/"
+                href="http://localhost:1313/en/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/articles/"
+                href="http://localhost:1313/articles/"
                 />
   </url><url>
-    <loc>https://norgelege.com/articles/nurse-in-norway/</loc>
+    <loc>http://localhost:1313/articles/nurse-in-norway/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://norgelege.com/articles/fagproven/</loc>
+    <loc>http://localhost:1313/articles/fagproven/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://norgelege.com/articles/videregoende-voksenopplaring/</loc>
+    <loc>http://localhost:1313/articles/videregoende-voksenopplaring/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://norgelege.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>https://norgelege.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/about/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>https://norgelege.com/articles/doctor-in-norway/</loc>
+    <loc>http://localhost:1313/articles/doctor-in-norway/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/articles/doctor-in-norway/"
+                href="http://localhost:1313/en/articles/doctor-in-norway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/articles/doctor-in-norway/"
+                href="http://localhost:1313/articles/doctor-in-norway/"
                 />
   </url><url>
-    <loc>https://norgelege.com/articles/norskproven-preparing/</loc>
+    <loc>http://localhost:1313/articles/norskproven-preparing/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://norgelege.com/articles/norskproven/</loc>
+    <loc>http://localhost:1313/articles/norskproven/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://norgelege.com/articles/student-license/</loc>
+    <loc>http://localhost:1313/articles/student-license/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/articles/student-license/"
+                href="http://localhost:1313/en/articles/student-license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/articles/student-license/"
+                href="http://localhost:1313/articles/student-license/"
                 />
   </url><url>
-    <loc>https://norgelege.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://norgelege.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

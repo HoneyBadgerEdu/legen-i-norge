@@ -1,21 +1,25 @@
 {
-  "name": "norsk-lege",
+  "dependencies": {
+    "tinacms": "^2.6.0"
+  },
+  "name": "legen-i-norge",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tinacms build",
-    "dev": "tinacms dev -c 'hugo server -D -p 1313"
+    "build" : "npx tinacms build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoneyBadgerEdu/legen-i-norge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "tinacms": "^2.5.2"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HoneyBadgerEdu/legen-i-norge/issues"
   },
-  "devDependencies": {
-    "@tinacms/cli": "^1.6.8",
-    "@types/node": "^22.7.4"
-  }
+  "homepage": "https://github.com/HoneyBadgerEdu/legen-i-norge#readme"
 }

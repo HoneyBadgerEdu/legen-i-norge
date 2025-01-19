@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Перелік останніх статей on Legen-i-Norge</title>
-    <link>https://norgelege.com/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Перелік останніх статей on Legen-i-Norge</description>
     <generator>Hugo</generator>
     <language>uk-UA</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://norgelege.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Підтвердження освіти медичної сестри в Норвегії</title>
-      <link>https://norgelege.com/articles/nurse-in-norway/</link>
+      <link>http://localhost:1313/articles/nurse-in-norway/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/nurse-in-norway/</guid>
+      <guid>http://localhost:1313/articles/nurse-in-norway/</guid>
       <description>Процес та вимоги для підтвердження диплому медичної сестри в Норвегії</description>
     </item>
     <item>
       <title>Що таке Fagprøven?</title>
-      <link>https://norgelege.com/articles/fagproven/</link>
+      <link>http://localhost:1313/articles/fagproven/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/fagproven/</guid>
+      <guid>http://localhost:1313/articles/fagproven/</guid>
       <description>Про медичний іспит для лікарів, які хочуть працювати в Норвегії, рекомендації з підготовки, ціна.</description>
     </item>
     <item>
       <title>Альтернативний шлях після Introsenteret Integreringsprogrammet</title>
-      <link>https://norgelege.com/articles/videregoende-voksenopplaring/</link>
+      <link>http://localhost:1313/articles/videregoende-voksenopplaring/</link>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/videregoende-voksenopplaring/</guid>
+      <guid>http://localhost:1313/articles/videregoende-voksenopplaring/</guid>
       <description>Отримання освіти у Videregående Voksenopplæring</description>
     </item>
     <item>
       <title>Як підтвердити освіту лікаря в Норвегії?</title>
-      <link>https://norgelege.com/articles/doctor-in-norway/</link>
+      <link>http://localhost:1313/articles/doctor-in-norway/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/doctor-in-norway/</guid>
+      <guid>http://localhost:1313/articles/doctor-in-norway/</guid>
       <description>Загальний шлях підтвердження освіті лікаря в Норвегії для громадян України</description>
     </item>
     <item>
       <title>Підготовка до Norskprøven - B1 за 1 рік</title>
-      <link>https://norgelege.com/articles/norskproven-preparing/</link>
+      <link>http://localhost:1313/articles/norskproven-preparing/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/norskproven-preparing/</guid>
+      <guid>http://localhost:1313/articles/norskproven-preparing/</guid>
       <description>Про тактику, методи та ресурси, які я використовував під час підготовки до іспиту.</description>
     </item>
     <item>
       <title>Про Norskprøven та поради перед складанням</title>
-      <link>https://norgelege.com/articles/norskproven/</link>
+      <link>http://localhost:1313/articles/norskproven/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/norskproven/</guid>
+      <guid>http://localhost:1313/articles/norskproven/</guid>
       <description>Про іспит в загалому, його тривалість, частини та поради з підготовки.</description>
     </item>
     <item>
       <title>Ліцензія медичного студента в Норвегії</title>
-      <link>https://norgelege.com/articles/student-license/</link>
+      <link>http://localhost:1313/articles/student-license/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://norgelege.com/articles/student-license/</guid>
+      <guid>http://localhost:1313/articles/student-license/</guid>
       <description>Умови для отримання, процес, вартість</description>
     </item>
   </channel>

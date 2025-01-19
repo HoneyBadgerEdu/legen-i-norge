@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://norgelege.com/en/contact/</loc>
+    <loc>http://localhost:1313/en/contact/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/</loc>
-    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/articles/doctor-in-norway/</loc>
+    <loc>http://localhost:1313/en/articles/doctor-in-norway/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/articles/doctor-in-norway/"
+                href="http://localhost:1313/articles/doctor-in-norway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/articles/doctor-in-norway/"
+                href="http://localhost:1313/en/articles/doctor-in-norway/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/articles/</loc>
-    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/articles/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/articles/"
+                href="http://localhost:1313/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/articles/"
+                href="http://localhost:1313/en/articles/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/articles/student-license/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/articles/student-license/</loc>
+    <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/articles/student-license/"
+                href="http://localhost:1313/articles/student-license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/articles/student-license/"
+                href="http://localhost:1313/en/articles/student-license/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://norgelege.com/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk-UA"
-                href="https://norgelege.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://norgelege.com/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

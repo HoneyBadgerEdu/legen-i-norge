@@ -1,4 +1,4 @@
-import { defineConfig, TinaField } from "tinacms";
+import { defineConfig } from "tinacms";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -7,7 +7,7 @@ const branch =
   process.env.HEAD ||
   "main";
 
-const generalFilling: TinaField<false>[] = [
+const generalFilling = [
   {
     type: "string",
     name: "title",
@@ -51,7 +51,7 @@ export default defineConfig({
   branch,
 
   // Get this from tina.io
-  clientId: process.env.TINA_PUBLIC_CLIENT_ID,
+  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   // Get this from tina.io
   token: process.env.TINA_TOKEN,
 
