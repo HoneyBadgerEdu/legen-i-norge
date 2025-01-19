@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@tinacms/cli": "^1.8.0",
     "tinacms": "^2.6.0"
   },
   "name": "legen-i-norge",
@@ -8,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build" : "npx tinacms build"
+    "build": "npx @tinacms/cli build"
   },
   "repository": {
     "type": "git",
