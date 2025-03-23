@@ -23,9 +23,15 @@ Once your education is approved, you will receive a license that allows you to w
 * Pass Nasjonalfagkurs
 * Pass Fagprøven
 
-After that, you get the right to go through Turnus. It's like an residence in US.
+After that, you get the right to go through L1S. It's like an residence in US.
 
 Each step is described in detail in my other articles.
+
+After obtaining a temporary license, the first job that most doctors who come to Norway from a non-EU country start with is a pleieassistent in a sykehjem (nursing home) in a municipality far from large cities (there is the greatest demand for staff and there are no high requirements). Open vacancies are monitored on the website [arbeidsplassen.nav.no](https://arbeidsplassen.nav.no/). It is recommended to know the language from level B1 for a more or less comfortable level of work in a sykehjem.
+
+To work in a sykehus as an assistant, you need a well-written CV, søknadsbrev and interview practice. Your CV and søknadsbrev are evaluated by the artificial intelligence of the HR department, and you receive a Master Score according to which applications are selected. This is due to the fact that a large number of applications are received for one vacancy. In the future, experience working in a sykehus will be of great importance when applying for L1S.
+
+For individual mentoring (help with CV, søknadsbrev and interview preparation) on finding a job in the medical field in Norway, please contact [Telegram](https://t.me/cat_scan).
 
 **Useful links:**
 
