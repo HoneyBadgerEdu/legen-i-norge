@@ -1,13 +1,14 @@
 {{ define "main" }}
 <div class="markdown">
   <h1>{{.Title}}</h1>
-  <p>{{ .Date | time.Format "02 Jan 2006" }}</p>
+  <div class="date">
+    <p>Перша публікація: {{ .Date | time.Format "02 Jan 2006" }}</p>
+    <p>Дата останньої редакції: {{ if .Params.lastmod }}{{.Params.lastmod | time.Format "02 Jan 2006"}} {{
+      else }}
+      <span>Не вказана</span>
+      {{ end }}
+    </p>
+  </div>
   {{.Content}}
-  <p>
-    <b>Дата останньої редакції статті: {{ if .Params.lastmod }}</b
-    >{{.Params.lastmod | time.Format "02 Jan 2006"}} {{ else }}
-    <span>Не вказана</span>
-    {{ end }}
-  </p>
 </div>
 {{ end }}

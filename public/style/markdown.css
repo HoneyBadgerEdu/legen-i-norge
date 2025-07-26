@@ -21,3 +21,8 @@ h2 {
 .markdown ol li, ul li{
   padding:0.5rem 0;
 }
+.date{
+  display:flex;
+  justify-content: space-between;
+  opacity: 75%;
+}
