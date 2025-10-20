@@ -2,12 +2,11 @@
 <div class="markdown">
   <h1>{{.Title}}</h1>
   <div class="date">
-    <p>Перша публікація: {{ .Date | time.Format "02 Jan 2006" }}</p>
-    <p>Дата останньої редакції: {{ if .Params.lastmod }}{{.Params.lastmod | time.Format "02 Jan 2006"}} {{
+    <p>{{ i18n "firstEdited" }} {{ .Date | time.Format "02 Jan 2006" }}</p>
+     <p> {{ i18n "lastEdited" }} {{ if .Params.lastmod }}{{.Params.lastmod | time.Format "02 Jan 2006"}} {{
       else }}
-      <span>Не вказана</span>
-      {{ end }}
-    </p>
+      <span>Not given</span>
+      {{ end }}</p>
   </div>
   {{.Content}}
 </div>

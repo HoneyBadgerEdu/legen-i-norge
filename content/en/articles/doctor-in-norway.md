@@ -1,7 +1,7 @@
 ---
 title: How to confirm you doctors degree in Norway?
-date: 01 Oct 2024
-lastmod: 01 Oct 2024
+date: 2024-10-01T00:00:00.000Z
+lastmod: 2024-10-01T00:00:00.000Z
 Summary: General way of confirming doctors education ouside of EU/EEA country in Norway
 draft: false
 ---

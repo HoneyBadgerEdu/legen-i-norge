@@ -1,7 +1,7 @@
 ---
 title: Що таке Fagprøven?
-date: 05 Oct 2024
-lastmod: 16 Dec 2024
+date: 2024-10-05T00:00:00.000Z
+lastmod: 2024-12-16T00:00:00.000Z
 Summary: >-
   Про медичний іспит для лікарів, які хочуть працювати в Норвегії, рекомендації
   з підготовки, ціна.
@@ -24,11 +24,11 @@ Fagprøven це державний іспит в Норвегії, який пе
 
 Приклади тестів з попередніх років перекладені на українську мову:
 
-![](</img/fagproven/test1.png>)
+![](/img/fagproven/test1.png)
 
-![](</img/fagproven/test2.png>)
+![](/img/fagproven/test2.png)
 
-![](</img/fagproven/test3.png>)
+![](/img/fagproven/test3.png)
 
 ## Мовна частина
 

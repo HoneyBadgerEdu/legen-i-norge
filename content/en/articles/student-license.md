@@ -1,7 +1,7 @@
 ---
 title: Licence of medical student in Norway
-date: 31 Aug 2024
-lastmod: 09 Jan 2025
+date: 2024-08-31T00:00:00.000Z
+lastmod: 2025-01-09T00:00:00.000Z
 Summary: 'Requirements to get it, process, cost'
 draft: false
 ---

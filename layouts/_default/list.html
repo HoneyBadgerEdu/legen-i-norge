@@ -3,9 +3,9 @@
 <h1>{{ .Title }}</h1>
 <p>{{ .Description }}</p>
 <ul>
-  {{ range .Pages }}
+  {{ range sort .Pages ".Params.lastmod" "desc"}}
   <li>
-    {{ .Date | time.Format "02 Jan 2006"}} - <a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ .Params.lastmod | time.Format "02 Jan 2006"}} - <a href="{{ .Permalink }}">{{ .Title }}</a>
     <p>{{ .Summary}}</p>
   </li>
   {{ end }}

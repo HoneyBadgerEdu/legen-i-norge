@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@tinacms/cli": "^1.8.0",
-    "tinacms": "^2.6.0"
+    "tinacms": "^2.9.0"
   },
   "name": "legen-i-norge",
   "version": "1.0.0",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/HoneyBadgerEdu/legen-i-norge/issues"
   },
-  "homepage": "https://github.com/HoneyBadgerEdu/legen-i-norge#readme"
+  "homepage": "https://github.com/HoneyBadgerEdu/legen-i-norge#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.0"
+  }
 }

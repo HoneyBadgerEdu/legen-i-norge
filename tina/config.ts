@@ -14,16 +14,14 @@ const generalFilling = [
     label: "Title",
   },
   {
-    type: "string",
+    type: "datetime",
     name: "date",
     label: "Date of creation",
-    description: "Example: 05 Jan 2024",
   },
   {
-    type: "string",
+    type: "datetime",
     name: "lastmod",
     label: "Date of last review of article",
-    description: "Example: 05 Jan 2024",
   },
   {
     type: "string",
@@ -51,7 +49,7 @@ export default defineConfig({
   branch,
 
   // Get this from tina.io
-  clientId: process.env.TINA_PUBLIC_CLIENT_ID,
+  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   // Get this from tina.io
   token: process.env.TINA_TOKEN,
 
@@ -65,7 +63,7 @@ export default defineConfig({
       publicFolder: "static",
     },
   },
-  // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
+  // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/r/content-modelling-collections/
   schema: {
     collections: [
       {

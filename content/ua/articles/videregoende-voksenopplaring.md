@@ -1,7 +1,7 @@
 ---
 title: Альтернативний шлях після Introsenteret Integreringsprogrammet
-date: 02 Oct 2024
-lastmod: 02 Oct 2024
+date: 2024-10-02T00:00:00.000Z
+lastmod: 2024-10-02T00:00:00.000Z
 Summary: Отримання освіти у Videregående Voksenopplæring
 draft: false
 ---
