@@ -3,7 +3,7 @@ title: Альтернативний шлях після Introsenteret Integrerin
 date: 2024-10-02T00:00:00.000Z
 lastmod: 2024-10-02T00:00:00.000Z
 Summary: Отримання освіти у Videregående Voksenopplæring
-draft: false
+draft: true
 ---
 
 ![](</img/videregoende-voksenopplaring/apr 2024.webp>)*Rogaland, Norge - Apr 2024*
