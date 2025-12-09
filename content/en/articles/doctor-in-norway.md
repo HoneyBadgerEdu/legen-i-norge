@@ -15,17 +15,19 @@ The first step is to make sure that the medical university you graduated from is
 
 ![WDoMS](/img/doctor-in-norway/WDoMS.png)
 
-If everything is OK, then the next step is to submit documents to the American company ECFMG EPIC. They send a request to your university to confirm that you really studied there. After the answer, they send a report to the Helsedirektoratet. This takes about 2 months. At the same time as EPIC evaluate your documents, you can also send them to the Helsedirektoratet. Because there the waiting time is up to 13 months.
+If everything is OK, then the next step is to submit documents to the American company ECFMG EPIC. They send a request to your university to confirm that you really studied there. After the answer, they send a report to the Helsedirektoratet. This takes about 2 months. 
 
-Once your education is approved, you will receive a license that allows you to work under the supervision of another doctor. It is valid for 3 years. During this time, you must meet 3 requirements:
+At the same time as EPIC evaluate your documents, you can also send documents to the Helsedirektoratet. Because there the waiting time is up to 13 months.
 
-The license looks like this:
-
-![](/img/doctor-in-norway/lisens-screenshot.png)
+Once your education is approved, you will receive a license that allows you to work under the supervision of another doctor (or is you don't have enough hours in certain subjects, they might ask you to take practical part in the hospital). The license is valid for 3 years. During this time, you must meet 3 requirements:
 
 * Pass Norskprøven - all 4 parts
 * Pass Nasjonalfagkurs
 * Pass Fagprøven
+
+The license looks like this:
+
+![](/img/doctor-in-norway/lisens-screenshot.png)
 
 Once you meet all 3 requirements, you gain the right to begin LIS1 (Lege i spesialisering). This is similar to an residency in US. It is paid and lasts 18 months: 12 months in a sykehus (large hospital) and 6 months in a legekontor (general practitioner’s office).
 
@@ -39,7 +41,7 @@ After receiving your temporary license, you are eligible to switch to a speciali
 
 ### Job search specifics
 
-When you submit a søknad (job application), it is important to have at least 2 references, and one of them should be from an enhetsleder. References are people who can describe you as a person, your skills, and work tasks you performed. To obtain these, doctors who are NOT from the EU usually complete hospitering before sending job applications. Refugees can complete arbeidspraksis via NAV or during the introduction program.
+When you submit a søknad (job application), it is important to have at least 2 references, and one of them should be from an enhetsleder. References are people who can describe you as a person, your skills, and work tasks you performed. To obtain these, doctors who are NOT from the EU usually complete hospitering before sending job applications.
 
 You attend a department for a certain period (from several months to a year) and learn how the Norwegian healthcare system works. When searching for a hospitering placement, you should write to the enhetsleder asking about the possibility of doing hospitering there. During hospitering you have the right to stay in hospital-provided housing. After completion, ask the enhetsleder and the doctor you worked with for permission for future employers to contact them about you.
 
