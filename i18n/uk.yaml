@@ -2,3 +2,9 @@ firstEdited:
   other: "Перша публікація:"
 lastEdited:
   other: "Дата останньої редакції:"
+contactForm:
+  other: "або через анонімну форму"
+contactFormName:
+  other: "Як з вами зв'язатись (опціонально)"
+contactFormMessage:
+  other: "Повідомлення"

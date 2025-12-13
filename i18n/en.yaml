@@ -2,3 +2,9 @@ firstEdited:
   other: "Article added:"
 lastEdited:
   other: "Last edited:"
+contactForm:
+  other: "or via anonymous form"
+contactFormName:
+  other: "How to contact you (optional)"
+contactFormMessage:
+  other: "Message"
