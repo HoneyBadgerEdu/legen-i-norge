@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://norgelege.com/</loc>
-    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://norgelege.com/articles/</loc>
-    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -36,12 +36,22 @@
   </url><url>
     <loc>https://norgelege.com/articles/nurse-in-norway/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://norgelege.com/en/articles/nurse-in-norway/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk-UA"
+                href="https://norgelege.com/articles/nurse-in-norway/"
+                />
   </url><url>
     <loc>https://norgelege.com/articles/fagproven/</loc>
     <lastmod>2025-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://norgelege.com/contact/</loc>
-    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -67,7 +77,7 @@
                 />
   </url><url>
     <loc>https://norgelege.com/articles/doctor-in-norway/</loc>
-    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
