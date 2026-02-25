@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: contact
 title: З'язатись зі мною
 date: 2024-10-02T00:00:00.000Z
 lastmod: 2026-02-25T01:00:00.000Z
